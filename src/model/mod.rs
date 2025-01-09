@@ -2,3 +2,8 @@ pub mod cameras;
 pub mod color;
 pub mod light_program;
 pub mod plane;
+pub mod point;
+pub mod safety_check;
+pub mod time_markers;
+pub mod trajectory;
+pub mod yaw;

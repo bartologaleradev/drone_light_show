@@ -8,7 +8,7 @@ use std::fmt::Error;
  * and d is the offset
  */
 
- type Coordinate3D = [f32; 3];
+ pub type Coordinate3D = [f32; 3];
 
 struct Plane {
     //The normal vector of the plane

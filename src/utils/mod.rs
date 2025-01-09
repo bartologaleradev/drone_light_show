@@ -1,3 +1,5 @@
+pub mod data_format;
+
 /**
  * Simplifies a sequence of points to a similar sequence with fewer points, using a disntance function
  * and an acceptable error term.

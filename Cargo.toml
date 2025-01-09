@@ -2,5 +2,6 @@
 name = "drone_light_show"
 version = "0.1.0"
 edition = "2021"
+authors = ["Bartolome Galera Lopez bgaleradev@gmail.com"]
 
 [dependencies]
